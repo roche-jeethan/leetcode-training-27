@@ -5,4 +5,7 @@
    `git clone https://github.com/<your-username>/leetcode-training-2027.git`
 
    *Note: Use the SSH link if you have authentication with SSH setup.*
-   
+
+---   
+- Name: Jeethan Roche
+- USN: 4SO23CD024   
